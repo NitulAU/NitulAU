@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NitulAU
-- 👀 I’m interested in Augmented Reality.
-- 🌱 I’m currently learning Unity programming.
-- 💞️ I’m looking to collaborate on AR projects.
+- 👀 I’m interested in Front End development, Augmented Reality(Unity 3D).
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on Angular projects.
 - 📫 Reach me on nitulau@gmail.com..
 
 <!---
